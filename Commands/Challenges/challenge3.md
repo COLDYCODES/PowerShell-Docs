@@ -1,5 +1,5 @@
 # Challenge 3
-Find how to create a new folder called:
+> Find how to create a new folder called:
 ```
 PowerShell-Lab
 ```
