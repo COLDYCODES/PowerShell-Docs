@@ -1,14 +1,14 @@
 # Final Challenge
-You have:
+> You have:
 ```
 hello.txt
 ```
-containing:
+> containing:
 ```
 Hello World!
 ```
-Now imagine the file contained 10,000 lines.
-Figure out how to find lines containing a particular word.
+> Now imagine the file contained 10,000 lines.
+> Figure out how to find lines containing a particular word.
 
 ```
 Select-String -Pattern 'Hello' -CaseSensitive -SimpleMatch
