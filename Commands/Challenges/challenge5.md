@@ -1,6 +1,6 @@
 # Challenge 5
-You're now inside `PowerShell-Lab`.
-Create:
+> You're now inside `PowerShell-Lab`.
+> Create:
 ```
 hello.txt
 ```
